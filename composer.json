@@ -1,0 +1,14 @@
+{
+    "name": "vendor/programa-o-assincrona",
+    "description": "Description of project ProgramaçãoAssincrona.",
+    "authors": [
+        {
+            "name": "wagner",
+            "email": "wagner@dextak.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "7.0.1",
+        "react/event-loop": "v1.1.1"
+    }
+}

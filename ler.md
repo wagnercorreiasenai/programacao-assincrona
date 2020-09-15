@@ -1,0 +1,1 @@
+https://www.treinaweb.com.br/blog/introducao-a-programacao-assincrona-em-php-usando-o-reactphp/
